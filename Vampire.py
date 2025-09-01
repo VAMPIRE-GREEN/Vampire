@@ -1,1 +1,1 @@
-vampire.py
+import VAMPIRE
