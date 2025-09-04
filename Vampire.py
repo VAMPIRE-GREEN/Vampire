@@ -1,1 +1,1 @@
-import VAMPIRE
+import Vampire_enc
